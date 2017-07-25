@@ -1,0 +1,2 @@
+# october-remoteimage
+REMOTE IMAGES COPY RESIZE AND SERVE
